@@ -1,0 +1,19 @@
+Github Account Creation
+Git Installation
+
+Basic commands 
+1.ls - listing files
+2.cd - switching to next directory
+3.cd .. - switching to previous directory
+4.mkdir - creating new directory
+5.rmdir - removing the folder
+6.rm - file removing
+
+Connecting Git to Github
+-creating respository
+-adding text document.
+-staging it
+-commit it
+-checkout between commit 1 and commit 2
+-connection from local to remote repository
+-push the files from local to remote.
