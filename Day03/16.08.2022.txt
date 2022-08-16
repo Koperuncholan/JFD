@@ -1,3 +1,5 @@
+Topics covered 
+
 Class and objects
 Abstraction
 Encapsulation
@@ -5,3 +7,12 @@ Inheritance
 Polymorphism
 Abstact class and Interface
 Method overloading and overriding
+
+Tasks given
+
+uses of super keyword and final keyword.
+adding the elements of the array.
+diff between protected and default.
+using interface,abstract class,single level inheritance,arrays,
+method overloading and overriding to print hello world.
+data type and its size.
