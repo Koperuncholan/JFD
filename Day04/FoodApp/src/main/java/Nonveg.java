@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Nonveg {
+    Tomato tomato = new Tomato();
     public void nv(){
         Scanner sc = new Scanner(System.in);
         int choice = sc.nextInt();

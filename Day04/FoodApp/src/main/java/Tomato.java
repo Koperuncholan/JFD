@@ -6,7 +6,7 @@ public class Tomato {
             switch (choice) {
                 case 1:
                     Tomato tomato = new Tomato();
-                    tomato.nv()
+                    tomato.nv();
 
                     break;
                 case 2:
@@ -19,9 +19,13 @@ public class Tomato {
         }
     }
 
-}
+    private void nv() {
+    }
 
     public static void main(String[] args) {
-
-
+        Menu menu = new Menu();
+        menu.display();
     }
+}
+
+    

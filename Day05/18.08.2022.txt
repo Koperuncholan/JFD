@@ -1,0 +1,25 @@
+Topics covered
+ 
+java string methods
+regular expression
+multi threading
+java reflection
+date format
+convention 
+collection
+list
+JDK
+RMI
+threads
+synchronization
+file handling
+
+mini project methods used
+
+lambda
+file
+interface
+inheritance
+regular expression
+date
+arraylist
