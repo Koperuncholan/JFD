@@ -20,8 +20,8 @@ public class OwnerController {
 
 
     @GetMapping("/all")
-    public void view() {
-        ownerService.view();
+    public List<Owner> view() {
+        return ownerService.view();
     }
 
 }
